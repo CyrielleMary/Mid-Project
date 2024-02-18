@@ -20,7 +20,7 @@ This project came to me when I watched the 2024 world cup in CZ where it was 7 d
 
 https://public.tableau.com/app/profile/cyrielle.mary/viz/MidProject4/nbpoints
 
-The visualisation of the data from the snowfall_wc_biathlon.csv
+The visualisation of the data from the snowfall_wc_biathlon.csv (the studied places)
 
 https://public.tableau.com/app/profile/cyrielle.mary/viz/midproject3/Temperature
 
